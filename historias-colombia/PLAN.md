@@ -138,6 +138,7 @@ For each clip:
 | 4 | La Batalla de Boyacá | +1 week | Epic battle, horses |
 | 5 | Blas de Lezo y Cartagena | +1 week | Underdog story with a twist |
 | 6 | Colón y el 12 de octubre (1492) | +1 week | Most famous story ever, answers "why is it called Colombia?" |
+| 7 | El Titanic (1912) | anytime (best first episode for reach) | World-famous story, huge search interest |
 
 - Post **2–3 times per week** once you have a backlog. Consistency matters more than perfection.
 - **Instagram:** turn on the **"AI info" label** (Meta requires disclosure for realistic AI video,
