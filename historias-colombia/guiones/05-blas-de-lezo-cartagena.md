@@ -3,6 +3,7 @@
 **Length:** about 56 s (7 clips × 8 s)
 **Hook text (0–2 s):** "¡Defendí Cartagena de 180 BARCOS! ⚓💥" ("I defended Cartagena from 180 SHIPS!")
 **Nico's action:** he becomes Blas de Lezo's little helper, carries cannonballs, knocks down a short ladder, and hides from the rain.
+**Nico's outfit (keep it in every clip):** 1741 Caribbean colonial boy: white linen shirt, navy vest, short breeches, little black tricorn hat. Always holding the NICO microphone.
 
 **Recurring characters:**
 - *Blas de Lezo: Spanish admiral in his 50s, black eyepatch over the left eye, wooden peg leg, right arm
@@ -15,7 +16,7 @@ Start every prompt with the **Nico character block**. Every prompt ends with:
 ---
 
 ### Clip 1: Hook
-**Prompt:** Selfie-style close-up of chubby little Nico sweating on top of the thick stone walls of
+**Prompt:** Handheld news-camera close-up of chubby little Nico holding his NICO reporter microphone sweating on top of the thick stone walls of
 colonial Cartagena, 1741, hot Caribbean sun, palm trees, the sea behind him full of dozens of large
 sailing warships. Eyes wide, he says in Spanish with a Colombian paisa accent from Medellín: "¡Quiubo, pues, parceros!
 Cartagena, 1741… ¡y vienen como 180 barcos ingleses!"

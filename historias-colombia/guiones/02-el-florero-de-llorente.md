@@ -3,6 +3,7 @@
 **Length:** about 56 s (7 clips × 8 s)
 **Hook text (0–2 s):** "¡Casi rompo el florero de la INDEPENDENCIA! 🏺😱" ("I almost broke the INDEPENDENCE vase!")
 **Nico's action:** he ends up in the middle of the fight, catches the vase, and runs to ring the church bell.
+**Nico's outfit (keep it in every clip):** 1810 criollo boy clothes: white shirt with a high collar, brown vest, dark breeches, little black felt hat. Always holding the NICO microphone.
 
 **Recurring character, Llorente:** *Spanish merchant in his 50s, gray sideburns, dark frock coat,
 grumpy proud face, colonial shop counter.*
@@ -13,7 +14,7 @@ Start every prompt with the **Nico character block**. Every prompt ends with:
 ---
 
 ### Clip 1: Hook
-**Prompt:** Selfie-style close-up of chubby little Nico in a busy colonial market plaza in Santafé de
+**Prompt:** Handheld news-camera close-up of chubby little Nico holding his NICO reporter microphone in a busy colonial market plaza in Santafé de
 Bogotá, July 20, 1810, vendors with fruit and chickens, cathedral behind. A chicken flaps past his face
 and he jumps. He says in Spanish with a Colombian paisa accent from Medellín: "¡Quiubo, pues, parceros! Estoy en el 20 de
 julio de 1810… ¡y todo empieza por un florero!"

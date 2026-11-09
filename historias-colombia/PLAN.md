@@ -3,10 +3,9 @@
 A complete plan to make short vertical videos (Reels / TikTok / Shorts) where an AI-generated
 8-year-old chubby Colombian kid, **Nico**, travels back in time, jumps into the action and tells history stories in Colombian Spanish.
 
-> **Note on the reference reel:** the Instagram link could not be opened from the session that
-> wrote this plan, because Instagram is blocked on its network. The breakdown below describes the common
-> "AI kid tells history like a vlog" format. If the original differs (animation style, pacing,
-> narrator off-screen and so on), adjust section 1 and keep everything else.
+> **Reference:** the format is inspired by *alfiewasthere* (a photoreal chubby kid acting as a TV news
+> reporter at historical events, for example "June 1914. A wrong turn in Sarajevo…"). Nico is an **original** character
+> with his own look, name, microphone branding and accent. Don't copy Alfie's face, name or logo.
 
 ---
 
@@ -17,7 +16,7 @@ How these reels are put together:
 | Element | How it works | Why it works |
 |---|---|---|
 | **Hook (0–2 s)** | Character talks straight to camera: "Hi! I'm in [place, year]…" plus big on-screen text | Viewers stop scrolling when someone talks right at them |
-| **Vlog POV** | Selfie-style framing, the kid holds the camera or talks to it, and history happens behind them | Feels like a real video from the past, not a lesson |
+| **Kid TV reporter** | Photoreal kid with a branded news microphone, reporting live from the event, thumbs-up, cheeky smile, history happening behind him |  Feels like a real video from the past, not a lesson |
 | **One clip = one idea** | Each 8-second AI clip carries one sentence of the story | Veo makes 8 s clips, so the story is told in 8 s beats |
 | **6–8 clips** | About 45–60 s total | Good length for watch time and replays |
 | **Same character every time** | Same face, outfit and voice in every clip and every episode | Builds a recognizable "show", and people follow for the character |
@@ -30,20 +29,27 @@ How these reels are put together:
 Use **exactly the same description in every prompt** (copy the block below). This is the most
 important rule for keeping him consistent.
 
-**Default style: stylized 3D animation (Pixar-like).** It looks great, keeps the character more
-consistent than photorealism, and avoids the restrictions AI tools often apply to photorealistic
-children.
+**Default style: photoreal cinematic** (like a real film shot on location, warm golden color grade,
+shallow depth of field). This matches the reference format. If Flow refuses a photoreal child in a
+scene, fall back to "Pixar-like stylized 3D" with the same description.
+
+**Signature look:** the **NICO microphone**, a black foam mic with a cube flag in Colombian
+yellow, blue and red with the word "NICO". Nico's clothes **change to match each era** (like a little period
+costume), but his face, hair, belly, missing tooth and the microphone never change.
 
 ### Character block (paste it at the start of every clip prompt)
 
 ```
-Stylized 3D animated film style, soft cinematic lighting, vertical 9:16.
-NICO: an 8-year-old chubby Colombian boy from Medellín, round belly, big round rosy cheeks, warm
-light-brown skin, big expressive dark-brown eyes, short curly black hair, missing front tooth,
-short legs. He wears a bright yellow hoodie a little too tight on his belly, with thin blue and
-red stripes on the cuffs, under his grandmother's gray-and-brown wool ruana (Colombian poncho),
-dark jeans and white sneakers. Brave, clumsy and funny, always jumping into the action.
-Voice: little 8-year-old boy, high-pitched, excited, Spanish with a paisa Colombian accent from Medellín (Antioquia), with a sing-song paisa intonation.
+Photorealistic cinematic film still, shot on location, warm natural light, shallow depth of field,
+vertical 9:16.
+NICO: an 8-year-old chubby Colombian boy from Medellín, round face, full rosy cheeks, round belly,
+warm light-brown skin, big dark-brown eyes, short curly black hair, small gap where a front tooth is
+missing, cheeky confident half-smile. He is a little TV news reporter: he holds a black foam
+microphone with a cube-shaped mic flag in yellow, blue and red with the word "NICO". He wears clothing
+of the historical era of the scene, child-size. He talks straight to the camera like a field
+reporter and sometimes gives a thumbs-up.
+Voice: little 8-year-old boy, high-pitched, excited, Spanish with a paisa Colombian accent from
+Medellín (Antioquia), with a sing-song paisa intonation.
 ```
 
 **Action rule:** Nico doesn't just watch. In every episode he jumps in: he runs messages,
@@ -52,7 +58,7 @@ as epic and funny, never gory (no blood, no deaths on screen). His being little 
 part of the comedy (he runs out of breath, gets stuck, belly-bounces), but he always ends up being brave.
 
 **Story device:** "la ruana de mi abuela", his grandmother's magic ruana that sends him to
-the past. It's culturally Colombian, gives a reason for the time travel, and is a recognizable visual.
+the past (optional; the reporter format works without explaining it). It's culturally Colombian, gives a reason for the time travel, and is a recognizable visual.
 
 **Catchphrases (paisa, from Medellín)**
 - Opening: *"¡Quiubo, pues, parceros! …"* ("Hey, guys!")
@@ -79,7 +85,7 @@ Flow (labs.google/flow) uses Veo for video plus an image model. Veo makes about 
 1. In Flow, generate an **image** with the character block plus: *"full body and close-up character
    sheet, neutral background, front view, smiling"*.
 2. Generate several, then **pick the best one and save it**. This is Nico's official face.
-   Optionally make one more of him holding a phone like a vlogger.
+   Make a close-up portrait too: holding the NICO mic, thumbs-up, plain background.
 
 ### Step 2: Generate each clip
 Choose the mode that fits your plan:
@@ -106,7 +112,7 @@ For each clip:
   *"speaks in Spanish with a Colombian paisa accent from Medellín"*.
 - Add **"no subtitles, no on-screen text"**, because AI text comes out garbled. Add real captions in CapCut.
 - Add **"no background music"** so every clip sounds the same, then add one music track in the edit.
-- Describe **camera** (selfie close-up, handheld), **place**, **time of day** and **sound**
+- Describe **camera** (handheld news-camera close-up, reporter framing), **place**, **time of day** and **sound**
   (crowd, rain, horses).
 - Keep historical people consistent by reusing the same short description (for example *"La Pola:
   young mestiza woman, about 22, dark hair in a braid, simple blue colonial dress"*).
@@ -116,7 +122,8 @@ For each clip:
 1. Import clips in order, trim dead frames at the start and end of each clip.
 2. **Auto captions** → Spanish → big bold style, yellow highlight on the key word, centered
    in the lower third (above the Instagram UI).
-3. **On-screen hook text** for the first 2 s, for example **"¿Una guerra por un FLORERO? 🏺"**.
+3. **Big title like a news report**: the story name in huge white bold letters with the key word or year in
+   yellow (for example **LA POLA** / **1817**), across the middle of the screen for the first 2–3 s. Then the hook text, for example **"¿Una guerra por un FLORERO? 🏺"**.
 4. Add **one music track** (soft adventure or epic) at low volume (about 10–15%).
 5. Add whoosh sound effects on the time-travel cuts.
 6. Export **1080×1920, 30 fps**.

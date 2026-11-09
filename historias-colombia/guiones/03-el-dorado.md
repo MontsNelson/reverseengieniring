@@ -3,6 +3,7 @@
 **Length:** about 56 s (7 clips × 8 s)
 **Hook text (0–2 s):** "¡Me volví DORADO! ✨😂" ("I turned GOLDEN!")
 **Nico's action:** he gets covered in gold dust by accident, rows the raft, and hides from the conquistadors.
+**Nico's outfit (keep it in every clip):** Little explorer outfit: gray-brown wool ruana over a cream shirt, khaki shorts, alpargatas. Always holding the NICO microphone.
 
 **Recurring character, the Muisca cacique:** *young Muisca chief, long straight black hair, gold nose
 ornament, feather headdress, calm and kind.*
@@ -13,7 +14,7 @@ Start every prompt with the **Nico character block**. Every prompt ends with:
 ---
 
 ### Clip 1: Hook
-**Prompt:** Selfie-style close-up of chubby little Nico at dawn by a round misty lagoon surrounded by
+**Prompt:** Handheld news-camera close-up of chubby little Nico holding his NICO reporter microphone at dawn by a round misty lagoon surrounded by
 green Andean mountains. He rubs his cold hands, amazed, and says in Spanish with a Colombian paisa accent from Medellín:
 "¡Quiubo, pues, parceros! Estoy en la Laguna de Guatavita, hace 500 años. ¡Vamos a buscar El Dorado!"
 

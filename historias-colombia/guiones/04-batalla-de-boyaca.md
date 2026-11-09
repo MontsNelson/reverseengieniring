@@ -3,6 +3,7 @@
 **Length:** about 56 s (7 clips × 8 s)
 **Hook text (0–2 s):** "¡Me fui a la GUERRA con Bolívar! 🐎⚔️" ("I went to WAR with Bolívar!")
 **Nico's action:** he marches across the frozen páramo, rides behind Rondón in the lancers' charge, and plays the drum at the bridge.
+**Nico's outfit (keep it in every clip):** 1819 patriot kid: gray-brown wool ruana, white shirt, small blue soldier's kepi cap, alpargatas. Always holding the NICO microphone.
 
 **Recurring characters:**
 - *Simón Bolívar: thin man in his 30s, dark curly hair and sideburns, dark blue military jacket with gold epaulettes.*
@@ -14,7 +15,7 @@ Start every prompt with the **Nico character block**. Every prompt ends with:
 ---
 
 ### Clip 1: Hook
-**Prompt:** Selfie-style close-up of chubby little Nico shivering in a freezing foggy páramo full of
+**Prompt:** Handheld news-camera close-up of chubby little Nico holding his NICO reporter microphone shivering in a freezing foggy páramo full of
 frailejón plants, 1819, snot frozen, wrapped tight in his ruana, a line of patriot soldiers marching
 behind him. Teeth chattering, he says in Spanish with a Colombian paisa accent from Medellín: "¡Quiubo, pues, parceros!
 ¡Qué frío! Estoy con el ejército de Bolívar… ¡nos vamos a la guerra!"

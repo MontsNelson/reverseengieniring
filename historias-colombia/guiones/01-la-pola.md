@@ -3,6 +3,7 @@
 **Post on:** Nov 14 (Día de la Mujer Colombiana) · **Length:** about 56 s (7 clips × 8 s)
 **Hook text (0–2 s):** "¡Me volví ESPÍA en 1817! 🕵️‍♂️🧵" ("I became a SPY in 1817!")
 **Nico's action:** he becomes La Pola's little messenger and runs from the soldiers with a secret note.
+**Nico's outfit (keep it in every clip):** 1817 colonial boy clothes: loose white linen shirt, small brown vest, dark knee breeches, a gray-brown wool ruana and alpargatas. Always holding the NICO microphone.
 
 **Recurring character, La Pola:** *young mestiza woman, about 22, dark hair in a long braid, simple
 blue colonial dress with a white shawl, kind but determined eyes.*
@@ -13,7 +14,7 @@ Start every prompt with the **Nico character block** from `PLAN.md`. Every promp
 ---
 
 ### Clip 1: Hook
-**Prompt:** Selfie-style close-up of chubby little Nico holding the camera, cheeks red, out of breath, in
+**Prompt:** Handheld news-camera close-up of chubby little Nico holding his NICO reporter microphone, cheeks red, out of breath, in
 a colonial cobblestone plaza in Santafé de Bogotá in 1817, wooden balconies, people in colonial clothes
 behind him. Excited, he says in Spanish with a Colombian paisa accent from Medellín: "¡Quiubo, pues, parceros! La ruana
 de mi abuela me trajo a 1817… ¡y hoy soy espía!"
@@ -25,7 +26,7 @@ Spanish with a Colombian paisa accent from Medellín: "Ella es La Pola. Cose ves
 
 ### Clip 3: The secret mission
 **Prompt:** La Pola kneels and secretly hides a folded note inside a loaf of bread, handing it to Nico
-with a wink. Nico salutes seriously, stuffs the bread under his hoodie, making his belly even rounder.
+with a wink. Nico salutes seriously, stuffs the bread under his vest, making his belly even rounder.
 He whispers in Spanish with a Colombian paisa accent from Medellín: "Me dio un mensaje pa' los patriotas. ¡Misión secreta, parceros!"
 
 ### Clip 4: The chase
