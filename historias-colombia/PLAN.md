@@ -1,7 +1,7 @@
 # "Nico Viaja en el Tiempo": Colombian history reels with Google Flow
 
 A complete plan to make short vertical videos (Reels / TikTok / Shorts) where an AI-generated
-Colombian kid, **Nico**, travels back in time and tells history stories in Colombian Spanish.
+8-year-old chubby Colombian kid, **Nico**, travels back in time, jumps into the action and tells history stories in Colombian Spanish.
 
 > **Note on the reference reel:** the Instagram link could not be opened from the session that
 > wrote this plan, because Instagram is blocked on its network. The breakdown below describes the common
@@ -38,12 +38,18 @@ children.
 
 ```
 Stylized 3D animated film style, soft cinematic lighting, vertical 9:16.
-NICO: a 10-year-old Colombian boy from Bogotá, warm light-brown skin, big expressive dark-brown
-eyes, short curly black hair, small gap-toothed smile. He wears a bright yellow hoodie with thin
-blue and red stripes on the cuffs, under his grandmother's gray-and-brown wool ruana (Colombian
-poncho), dark jeans and white sneakers. He talks to the camera like a vlogger, energetic and curious.
-Voice: young boy, cheerful, Spanish with a Bogotá Colombian accent.
+NICO: an 8-year-old chubby Colombian boy from Bogotá, round belly, big round rosy cheeks, warm
+light-brown skin, big expressive dark-brown eyes, short curly black hair, missing front tooth,
+short legs. He wears a bright yellow hoodie a little too tight on his belly, with thin blue and
+red stripes on the cuffs, under his grandmother's gray-and-brown wool ruana (Colombian poncho),
+dark jeans and white sneakers. Brave, clumsy and funny, always jumping into the action.
+Voice: little 8-year-old boy, high-pitched, excited, Spanish with a Bogotá Colombian accent.
 ```
+
+**Action rule:** Nico doesn't just watch. In every episode he jumps in: he runs messages,
+hides, rides with the lancers, carries cannonballs, trips and gets back up. Fights are shown
+as epic and funny, never gory (no blood, no deaths on screen). His being little and chubby is
+part of the comedy (he runs out of breath, gets stuck, belly-bounces), but he always ends up being brave.
 
 **Story device:** "la ruana de mi abuela", his grandmother's magic ruana that sends him to
 the past. It's culturally Colombian, gives a reason for the time travel, and is a recognizable visual.

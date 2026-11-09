@@ -1,70 +1,72 @@
 # Episode 2: El Florero de Llorente (Llorente's vase)
 
 **Length:** about 56 s (7 clips × 8 s)
-**Hook text (0–2 s):** "¿La independencia empezó por un FLORERO? 🏺" ("Did independence start because of a VASE?")
+**Hook text (0–2 s):** "¡Casi rompo el florero de la INDEPENDENCIA! 🏺😱" ("I almost broke the INDEPENDENCE vase!")
+**Nico's action:** he ends up in the middle of the fight, catches the vase, and runs to ring the church bell.
 
 **Recurring character, Llorente:** *Spanish merchant in his 50s, gray sideburns, dark frock coat,
-proud and grumpy face, standing behind the counter of a colonial shop.*
+grumpy proud face, colonial shop counter.*
 
 Start every prompt with the **Nico character block**. Every prompt ends with:
-*no subtitles, no on-screen text, no background music.*
+*no subtitles, no on-screen text, no background music, no blood.*
 
 ---
 
 ### Clip 1: Hook
-**Prompt:** Selfie-style close-up of Nico in a busy colonial plaza in Santafé de Bogotá, July 20, 1810,
-market day, vendors with fruit and chickens, cathedral behind. Excited, he says in Spanish with a
-Colombian Bogotá accent: "¡Quiubo, parceros! Santafé, 20 de julio de 1810. ¡Y todo esto empezó por un florero!"
+**Prompt:** Selfie-style close-up of chubby little Nico in a busy colonial market plaza in Santafé de
+Bogotá, July 20, 1810, vendors with fruit and chickens, cathedral behind. A chicken flaps past his face
+and he jumps. He says in Spanish with a Colombian Bogotá accent: "¡Quiubo, parceros! Estoy en el 20 de
+julio de 1810… ¡y todo empieza por un florero!"
 
-### Clip 2: The vase
-**Prompt:** Inside a colonial shop full of fabrics and goods, Llorente polishes an elegant porcelain
-vase. Nico leans into frame and whispers to the camera in Spanish with a Colombian Bogotá accent:
-"Él es José González Llorente, un comerciante español. Y tiene un florero bien elegante."
+### Clip 2: The grumpy merchant
+**Prompt:** Inside a colonial shop, Llorente polishes an elegant porcelain vase. Nico, on tiptoe, barely
+reaches the counter with his chin, whispering to the camera in Spanish with a Colombian Bogotá accent:
+"Ese señor es Llorente, un español. Y ese es el florero más famoso de Colombia."
 
-### Clip 3: The request
-**Prompt:** Three young criollo men in 1810 clothing with top hats enter the shop politely. Nico,
-narrating to camera, in Spanish with a Colombian Bogotá accent: "Unos criollos le piden prestado el
-florero para una cena en honor a un visitante importante."
+### Clip 3: "¡No!"
+**Prompt:** Three young criollo men in 1810 clothing with top hats politely ask Llorente for the vase,
+and he crosses his arms and shakes his head angrily. Nico looks at the camera, shocked: "Le pidieron
+el florero prestado pa' una cena… ¡y dijo que no, y los insultó!" Spoken in Spanish with a Colombian Bogotá accent.
 
-### Clip 4: The refusal
-**Prompt:** Llorente refuses angrily, waving his hands, the criollos look offended. Nico covers his mouth,
-shocked, and says in Spanish with a Colombian Bogotá accent: "Y él dice que no… y dicen que los insultó. ¡Uy, no, se armó la pelea!"
+### Clip 4: The fight
+**Prompt:** Comedic chaos inside the shop, grown men pushing and shouting (no punches shown), hats
+flying. Nico gets squished in the middle of them, then the vase flies into the air and Nico dives
+belly-first and catches it. He says in Spanish with a Colombian Bogotá accent: "¡Uy, se armó la pelea! … ¡Lo agarré! ¡Lo agarré!"
 
-### Clip 5: The crowd
-**Prompt:** Wide shot of the crowded market plaza, people shouting and raising their arms, excitement
-spreading (no weapons, no violence). Nico in the foreground: "Era día de mercado, la plaza estaba llena… ¡y la gente se puso brava!"
-Spoken in Spanish with a Colombian Bogotá accent.
+### Clip 5: The bell
+**Prompt:** Nico runs up the stairs of a colonial church tower, panting, and pulls the big bell rope with
+all his weight, his feet lifting off the floor as the bell rings. He shouts in Spanish with a Colombian
+Bogotá accent: "¡Gente, vengan! ¡Se prendió esto!"
 
-### Clip 6: The Acta
-**Prompt:** Night, candlelit colonial hall, men in 1810 clothing signing a large parchment document with
-quill pens. Nico watches from the side, amazed, and says in Spanish with a Colombian Bogotá accent:
-"Esa misma noche firmaron un acta. ¡Fue el primer gran paso hacia la independencia!"
+### Clip 6: The crowd and the Acta
+**Prompt:** The crowded market plaza fills with people raising their arms and cheering. Then cut to night,
+a candlelit hall, men signing a large parchment with quill pens, and Nico peeking over the table. He says
+in Spanish with a Colombian Bogotá accent: "La gente se puso brava… ¡y esa noche firmaron un acta pa' gobernarse solos!"
 
 ### Clip 7: Present day + question
-**Prompt:** Present-day museum room, an old porcelain vase in a glass case. Nico points at it and
-grins, in Spanish with a Colombian Bogotá accent: "Hoy está en la Casa del Florero, en Bogotá. Y dicen
-que la pelea fue planeada… ¿ustedes qué creen?"
+**Prompt:** Present-day museum, an old porcelain vase in a glass case. Nico presses his face against the
+glass, then turns to the camera with a missing-tooth grin, in Spanish with a Colombian Bogotá accent:
+"Todavía existe, en la Casa del Florero. Dicen que la pelea fue planeada… ¿ustedes qué creen?"
 
 ---
 
 ### Full script (for captions)
-¡Quiubo, parceros! Santafé, 20 de julio de 1810. ¡Y todo esto empezó por un florero!
-Él es José González Llorente, un comerciante español. Y tiene un florero bien elegante.
-Unos criollos le piden prestado el florero para una cena en honor a un visitante importante.
-Y él dice que no… y dicen que los insultó. ¡Uy, no, se armó la pelea!
-Era día de mercado, la plaza estaba llena… ¡y la gente se puso brava!
-Esa misma noche firmaron un acta. ¡Fue el primer gran paso hacia la independencia!
-Hoy está en la Casa del Florero, en Bogotá. Y dicen que la pelea fue planeada… ¿ustedes qué creen?
+¡Quiubo, parceros! Estoy en el 20 de julio de 1810… ¡y todo empieza por un florero!
+Ese señor es Llorente, un español. Y ese es el florero más famoso de Colombia.
+Le pidieron el florero prestado pa' una cena… ¡y dijo que no, y los insultó!
+¡Uy, se armó la pelea! … ¡Lo agarré! ¡Lo agarré!
+¡Gente, vengan! ¡Se prendió esto!
+La gente se puso brava… ¡y esa noche firmaron un acta pa' gobernarse solos!
+Todavía existe, en la Casa del Florero. Dicen que la pelea fue planeada… ¿ustedes qué creen?
 
 ### Instagram caption
-¿Una revolución por un florero? 🏺😳 Nico viajó al 20 de julio de 1810 para ver cómo empezó todo.
-👇 ¿Fue accidente o fue planeado? Comenten.
-#HistoriaDeColombia #20DeJulio #FloreroDeLlorente #Independencia #Bogotá #Colombia #Historia #NicoViajaEnElTiempo
+Nico casi rompe el florero más famoso de Colombia. 🏺😅 Así empezó todo el 20 de julio de 1810.
+👇 ¿Fue accidente o fue planeado?
+#HistoriaDeColombia #20DeJulio #FloreroDeLlorente #Independencia #Bogotá #Colombia #NicoViajaEnElTiempo
 
 ### Fact notes
 - Criollos asked José González Llorente to lend them a vase for a dinner honoring the royal
-  commissioner Antonio Villavicencio. His refusal led to a fight on market day.
-- That night the "Acta de la Revolución del 20 de julio" was signed. July 20 is Colombia's
-  Independence Day.
-- Many historians say the incident was planned to provoke a reaction. The site is now the Museo de la
-  Independencia – Casa del Florero.
+  commissioner Antonio Villavicencio. His refusal sparked a fight on market day (a Friday).
+- Church bells were rung to call people to the plaza. Nico ringing one is fiction, but the bells are a real detail.
+- That night the "Acta de la Revolución del 20 de julio" was signed. Many historians think the incident
+  was planned. The site is the Museo de la Independencia – Casa del Florero.

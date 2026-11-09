@@ -1,72 +1,73 @@
 # Episode 5: Blas de Lezo y Cartagena
 
 **Length:** about 56 s (7 clips × 8 s)
-**Hook text (0–2 s):** "Celebró ANTES de ganar 🏅😂" ("He celebrated BEFORE winning")
+**Hook text (0–2 s):** "¡Defendí Cartagena de 180 BARCOS! ⚓💥" ("I defended Cartagena from 180 SHIPS!")
+**Nico's action:** he becomes Blas de Lezo's little helper, carries cannonballs, knocks down a short ladder, and hides from the rain.
 
 **Recurring characters:**
-- *Blas de Lezo: Spanish admiral in his 50s, black eyepatch over the left eye, wooden peg leg, right
-  arm stiff at his side, white wig, dark navy coat with gold buttons, fierce but calm.*
+- *Blas de Lezo: Spanish admiral in his 50s, black eyepatch over the left eye, wooden peg leg, right arm
+  stiff at his side, white wig, dark navy coat with gold buttons, fierce but kind to Nico.*
 - *Edward Vernon: British admiral, red coat, white wig, smug smile, on the deck of a warship.*
 
 Start every prompt with the **Nico character block**. Every prompt ends with:
-*no subtitles, no on-screen text, no background music.* No blood or gore.
+*no subtitles, no on-screen text, no background music, no blood, no gore.*
 
 ---
 
 ### Clip 1: Hook
-**Prompt:** Selfie-style close-up of Nico on top of the thick stone walls of colonial Cartagena, 1741,
-hot Caribbean sun, palm trees, the sea behind him filled with dozens of large sailing warships on the
-horizon. Shocked, he says in Spanish with a Colombian Bogotá accent: "¡Quiubo, parceros! Cartagena,
-1741. Miren el mar… ¡son como 180 barcos ingleses!"
+**Prompt:** Selfie-style close-up of chubby little Nico sweating on top of the thick stone walls of
+colonial Cartagena, 1741, hot Caribbean sun, palm trees, the sea behind him full of dozens of large
+sailing warships. Eyes wide, he says in Spanish with a Colombian Bogotá accent: "¡Quiubo, parceros!
+Cartagena, 1741… ¡y vienen como 180 barcos ingleses!"
 
 ### Clip 2: Mediohombre
-**Prompt:** Blas de Lezo stands on the wall looking at the fleet through a spyglass. Nico stands next to
-him, whispering to the camera, in Spanish with a Colombian Bogotá accent: "Él es Blas de Lezo,
-'Mediohombre'. Sin un ojo, sin una pierna y con un brazo que no mueve."
+**Prompt:** Blas de Lezo stands on the wall with a spyglass. Nico stands next to him, puts one hand over
+one eye like a pirate and tries to copy his pose, wobbling on one leg. He whispers in Spanish with a
+Colombian Bogotá accent: "Él es Blas de Lezo, 'Mediohombre'. Sin un ojo, sin una pierna… ¡y no le tiene miedo a nada!"
 
 ### Clip 3: The early medals
-**Prompt:** On the deck of a British warship, Vernon proudly shows off a shiny gold commemorative medal,
-officers laughing. Nico appears at the edge of the frame, facepalming, in Spanish with a Colombian Bogotá
-accent: "El inglés Vernon estaba tan seguro de ganar que mandó a hacer medallas… ¡antes de ganar!"
+**Prompt:** On the deck of a British warship, Vernon proudly shows off a shiny gold medal while his
+officers laugh. Nico peeks over the ship's rail with a spyglass, then facepalms. He says in Spanish with a
+Colombian Bogotá accent: "El inglés Vernon ya mandó a hacer medallas de victoria… ¡y todavía no ha ganado!"
 
-### Clip 4: The night attack
-**Prompt:** Night, the massive stone fortress Castillo San Felipe de Barajas on a hill, British soldiers
-climbing with wooden ladders that are clearly too short for the walls, torches. Nico giggling, in Spanish
-with a Colombian Bogotá accent: "Atacan el Castillo San Felipe de noche… y dicen que las escaleras ¡les quedaron cortas!"
+### Clip 4: Cannonballs
+**Prompt:** Inside the stone fortress Castillo San Felipe, Spanish soldiers preparing cannons. Nico
+struggles to carry one heavy black cannonball, red-faced, belly pushing forward, tiny steps. He says,
+straining, in Spanish with a Colombian Bogotá accent: "¡Yo también ayudo! ¡Esto pesa más que yo, parceros!"
 
-### Clip 5: Rain and sickness
-**Prompt:** Heavy tropical rain over British camps in the jungle, tired and sick soldiers lying in tents,
-mosquitoes, thunder. Nico under a palm leaf as an umbrella: "Además, las lluvias y las enfermedades
-acabaron con muchísimos soldados ingleses." Spoken in Spanish with a Colombian Bogotá accent.
+### Clip 5: The short ladders
+**Prompt:** Night, torches, British soldiers propping wooden ladders against the huge fortress wall, the
+ladders clearly too short. Nico on top of the wall laughs, then gives a ladder a little push with his
+belly and it slides harmlessly back down. He says in Spanish with a Colombian Bogotá accent: "Dicen que
+las escaleras les quedaron cortas… ¡jajaja, qué oso!"
 
-### Clip 6: Retreat
-**Prompt:** Sunrise, the British fleet sailing away from Cartagena's bay, people on the walls celebrating,
-Blas de Lezo standing calmly. Nico raises both arms: "Al final, Vernon se tuvo que ir. ¡Cartagena aguantó!"
-Spoken in Spanish with a Colombian Bogotá accent.
+### Clip 6: Rain and retreat
+**Prompt:** Heavy tropical rain, Nico holding a giant palm leaf as an umbrella. Then sunrise, the British
+fleet sailing away from the bay, people on the walls cheering, Blas de Lezo resting his hand on Nico's
+head. Nico says in Spanish with a Colombian Bogotá accent: "Con lluvias y enfermedades, Vernon se tuvo que ir. ¡Cartagena aguantó!"
 
 ### Clip 7: Present day + call to action
-**Prompt:** Present-day Castillo San Felipe in Cartagena, sunny, tourists, the colorful old city behind.
-Nico holds an old bronze medal up to the camera and laughs, in Spanish with a Colombian Bogotá accent:
+**Prompt:** Present-day Castillo San Felipe in Cartagena, sunny, the colorful old city behind. Nico holds
+up an old bronze medal and laughs with his missing tooth. He says in Spanish with a Colombian Bogotá accent:
 "Y esas medallas todavía existen. ¡Celebró antes de tiempo! ¡Chao, parceros!"
 
 ---
 
 ### Full script (for captions)
-¡Quiubo, parceros! Cartagena, 1741. Miren el mar… ¡son como 180 barcos ingleses!
-Él es Blas de Lezo, "Mediohombre". Sin un ojo, sin una pierna y con un brazo que no mueve.
-El inglés Vernon estaba tan seguro de ganar que mandó a hacer medallas… ¡antes de ganar!
-Atacan el Castillo San Felipe de noche… y dicen que las escaleras ¡les quedaron cortas!
-Además, las lluvias y las enfermedades acabaron con muchísimos soldados ingleses.
-Al final, Vernon se tuvo que ir. ¡Cartagena aguantó!
+¡Quiubo, parceros! Cartagena, 1741… ¡y vienen como 180 barcos ingleses!
+Él es Blas de Lezo, "Mediohombre". Sin un ojo, sin una pierna… ¡y no le tiene miedo a nada!
+El inglés Vernon ya mandó a hacer medallas de victoria… ¡y todavía no ha ganado!
+¡Yo también ayudo! ¡Esto pesa más que yo, parceros!
+Dicen que las escaleras les quedaron cortas… ¡jajaja, qué oso!
+Con lluvias y enfermedades, Vernon se tuvo que ir. ¡Cartagena aguantó!
 Y esas medallas todavía existen. ¡Celebró antes de tiempo! ¡Chao, parceros!
 
 ### Instagram caption
-El almirante que celebró antes de ganar. 🏅😂 Nico viajó a la Cartagena de 1741 para ver a Blas de Lezo.
-¿Ya visitaron el Castillo San Felipe? 👇
-#Cartagena #BlasDeLezo #CastilloSanFelipe #HistoriaDeColombia #Colombia #Historia #NicoViajaEnElTiempo
+Nico ayudó a Blas de Lezo a defender Cartagena… del almirante que celebró antes de ganar. 🏅😂⚓
+#Cartagena #BlasDeLezo #CastilloSanFelipe #HistoriaDeColombia #Colombia #NicoViajaEnElTiempo
 
 ### Fact notes
-- Siege of Cartagena de Indias, March–May 1741. Admiral Edward Vernon's fleet had about 180+ ships.
-- Blas de Lezo had lost his left eye and left leg, and the use of his right arm, so they called him "Mediohombre" (half-man).
-- Medals celebrating Vernon's "victory" were minted in Britain before the outcome was known, and many still exist.
-- The "short ladders" at San Felipe are a popular account. That's why the script says "dicen que" ("they say that").
+- Siege of Cartagena de Indias, March–May 1741. Vernon's fleet had about 180+ ships.
+- Blas de Lezo had lost his left eye and left leg, and the use of his right arm ("Mediohombre", half-man).
+- Medals celebrating Vernon's "victory" were minted before the outcome was known, and many still exist.
+- Disease and rain hit the British hard. The "short ladders" are a popular account (hence "dicen que", "they say that").
