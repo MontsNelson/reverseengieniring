@@ -15,43 +15,43 @@ Start every prompt with the **Nico character block**. Every prompt ends with:
 ### Clip 1: Hook
 **Prompt:** Selfie-style close-up of chubby little Nico in a busy colonial market plaza in Santafé de
 Bogotá, July 20, 1810, vendors with fruit and chickens, cathedral behind. A chicken flaps past his face
-and he jumps. He says in Spanish with a Colombian Bogotá accent: "¡Quiubo, parceros! Estoy en el 20 de
+and he jumps. He says in Spanish with a Colombian paisa accent from Medellín: "¡Quiubo, pues, parceros! Estoy en el 20 de
 julio de 1810… ¡y todo empieza por un florero!"
 
 ### Clip 2: The grumpy merchant
 **Prompt:** Inside a colonial shop, Llorente polishes an elegant porcelain vase. Nico, on tiptoe, barely
-reaches the counter with his chin, whispering to the camera in Spanish with a Colombian Bogotá accent:
+reaches the counter with his chin, whispering to the camera in Spanish with a Colombian paisa accent from Medellín:
 "Ese señor es Llorente, un español. Y ese es el florero más famoso de Colombia."
 
 ### Clip 3: "¡No!"
 **Prompt:** Three young criollo men in 1810 clothing with top hats politely ask Llorente for the vase,
 and he crosses his arms and shakes his head angrily. Nico looks at the camera, shocked: "Le pidieron
-el florero prestado pa' una cena… ¡y dijo que no, y los insultó!" Spoken in Spanish with a Colombian Bogotá accent.
+el florero prestado pa' una cena… ¡y dijo que no, y los insultó!" Spoken in Spanish with a Colombian paisa accent from Medellín.
 
 ### Clip 4: The fight
 **Prompt:** Comedic chaos inside the shop, grown men pushing and shouting (no punches shown), hats
 flying. Nico gets squished in the middle of them, then the vase flies into the air and Nico dives
-belly-first and catches it. He says in Spanish with a Colombian Bogotá accent: "¡Uy, se armó la pelea! … ¡Lo agarré! ¡Lo agarré!"
+belly-first and catches it. He says in Spanish with a Colombian paisa accent from Medellín: "¡Uy, se armó la pelea! … ¡Lo agarré! ¡Lo agarré!"
 
 ### Clip 5: The bell
 **Prompt:** Nico runs up the stairs of a colonial church tower, panting, and pulls the big bell rope with
 all his weight, his feet lifting off the floor as the bell rings. He shouts in Spanish with a Colombian
-Bogotá accent: "¡Gente, vengan! ¡Se prendió esto!"
+paisa accent from Medellín: "¡Gente, vengan! ¡Se prendió esto!"
 
 ### Clip 6: The crowd and the Acta
 **Prompt:** The crowded market plaza fills with people raising their arms and cheering. Then cut to night,
 a candlelit hall, men signing a large parchment with quill pens, and Nico peeking over the table. He says
-in Spanish with a Colombian Bogotá accent: "La gente se puso brava… ¡y esa noche firmaron un acta pa' gobernarse solos!"
+in Spanish with a Colombian paisa accent from Medellín: "La gente se puso brava… ¡y esa noche firmaron un acta pa' gobernarse solos!"
 
 ### Clip 7: Present day + question
 **Prompt:** Present-day museum, an old porcelain vase in a glass case. Nico presses his face against the
-glass, then turns to the camera with a missing-tooth grin, in Spanish with a Colombian Bogotá accent:
+glass, then turns to the camera with a missing-tooth grin, in Spanish with a Colombian paisa accent from Medellín:
 "Todavía existe, en la Casa del Florero. Dicen que la pelea fue planeada… ¿ustedes qué creen?"
 
 ---
 
 ### Full script (for captions)
-¡Quiubo, parceros! Estoy en el 20 de julio de 1810… ¡y todo empieza por un florero!
+¡Quiubo, pues, parceros! Estoy en el 20 de julio de 1810… ¡y todo empieza por un florero!
 Ese señor es Llorente, un español. Y ese es el florero más famoso de Colombia.
 Le pidieron el florero prestado pa' una cena… ¡y dijo que no, y los insultó!
 ¡Uy, se armó la pelea! … ¡Lo agarré! ¡Lo agarré!

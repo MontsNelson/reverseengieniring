@@ -38,12 +38,12 @@ children.
 
 ```
 Stylized 3D animated film style, soft cinematic lighting, vertical 9:16.
-NICO: an 8-year-old chubby Colombian boy from Bogotá, round belly, big round rosy cheeks, warm
+NICO: an 8-year-old chubby Colombian boy from Medellín, round belly, big round rosy cheeks, warm
 light-brown skin, big expressive dark-brown eyes, short curly black hair, missing front tooth,
 short legs. He wears a bright yellow hoodie a little too tight on his belly, with thin blue and
 red stripes on the cuffs, under his grandmother's gray-and-brown wool ruana (Colombian poncho),
 dark jeans and white sneakers. Brave, clumsy and funny, always jumping into the action.
-Voice: little 8-year-old boy, high-pitched, excited, Spanish with a Bogotá Colombian accent.
+Voice: little 8-year-old boy, high-pitched, excited, Spanish with a paisa Colombian accent from Medellín (Antioquia), with a sing-song paisa intonation.
 ```
 
 **Action rule:** Nico doesn't just watch. In every episode he jumps in: he runs messages,
@@ -54,12 +54,14 @@ part of the comedy (he runs out of breath, gets stuck, belly-bounces), but he al
 **Story device:** "la ruana de mi abuela", his grandmother's magic ruana that sends him to
 the past. It's culturally Colombian, gives a reason for the time travel, and is a recognizable visual.
 
-**Catchphrases**
-- Opening: *"¡Quiubo, parceros! …"* ("Hey, guys!")
-- Closing: *"¿Ustedes sabían esto? ¡Síganme pa' más historias! ¡Chao, parceros!"* ("Did you know
-  this? Follow me for more stories! Bye, guys!")
-- Kid-friendly Colombian words to use: *parce, bacano, ¡uy, no!, berraco/berraca (brave),
-  ¿sí o qué?, qué nota*.
+**Catchphrases (paisa, from Medellín)**
+- Opening: *"¡Quiubo, pues, parceros! …"* ("Hey, guys!")
+- Closing: *"¿Cierto que no sabían? ¡Síganme pa' más historias! ¡Chao pues, parceros!"* ("Bet you didn't
+  know that, right? Follow me for more stories! Bye, guys!")
+- Kid-friendly paisa words to use: *¡Ave María, pues!, ¡eh, avemaría!, parce, bacano, pues,
+  ¿cierto?, qué nota, berraco/berraca (brave), ¡qué pecado! (poor thing), and "vos" ("mirá", "vení")*.
+- In the prompts, always write *"speaks Spanish with a Colombian paisa accent from Medellín"*. If Veo
+  makes it sound neutral or Mexican, add *"sing-song Antioquian intonation, says 'pues' a lot"*.
 
 ## 3. Google Flow workflow (step by step)
 
@@ -101,7 +103,7 @@ For each clip:
 
 ### Prompting rules that make a big difference
 - Write the scene in **English** and put the **dialogue in Spanish in quotes**, and say
-  *"speaks in Spanish with a Colombian Bogotá accent"*.
+  *"speaks in Spanish with a Colombian paisa accent from Medellín"*.
 - Add **"no subtitles, no on-screen text"**, because AI text comes out garbled. Add real captions in CapCut.
 - Add **"no background music"** so every clip sounds the same, then add one music track in the edit.
 - Describe **camera** (selfie close-up, handheld), **place**, **time of day** and **sound**
@@ -128,6 +130,7 @@ For each clip:
 | 3 | El Dorado y la Laguna de Guatavita | +1 week | Myth and gold, very visual |
 | 4 | La Batalla de Boyacá | +1 week | Epic battle, horses |
 | 5 | Blas de Lezo y Cartagena | +1 week | Underdog story with a twist |
+| 6 | Colón y el 12 de octubre (1492) | +1 week | Most famous story ever, answers "why is it called Colombia?" |
 
 - Post **2–3 times per week** once you have a backlog. Consistency matters more than perfection.
 - **Instagram:** turn on the **"AI info" label** (Meta requires disclosure for realistic AI video,

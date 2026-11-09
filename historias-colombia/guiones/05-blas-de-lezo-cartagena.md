@@ -17,50 +17,50 @@ Start every prompt with the **Nico character block**. Every prompt ends with:
 ### Clip 1: Hook
 **Prompt:** Selfie-style close-up of chubby little Nico sweating on top of the thick stone walls of
 colonial Cartagena, 1741, hot Caribbean sun, palm trees, the sea behind him full of dozens of large
-sailing warships. Eyes wide, he says in Spanish with a Colombian Bogotá accent: "¡Quiubo, parceros!
+sailing warships. Eyes wide, he says in Spanish with a Colombian paisa accent from Medellín: "¡Quiubo, pues, parceros!
 Cartagena, 1741… ¡y vienen como 180 barcos ingleses!"
 
 ### Clip 2: Mediohombre
 **Prompt:** Blas de Lezo stands on the wall with a spyglass. Nico stands next to him, puts one hand over
 one eye like a pirate and tries to copy his pose, wobbling on one leg. He whispers in Spanish with a
-Colombian Bogotá accent: "Él es Blas de Lezo, 'Mediohombre'. Sin un ojo, sin una pierna… ¡y no le tiene miedo a nada!"
+Colombian paisa accent from Medellín: "Él es Blas de Lezo, 'Mediohombre'. Sin un ojo, sin una pierna… ¡y no le tiene miedo a nada!"
 
 ### Clip 3: The early medals
 **Prompt:** On the deck of a British warship, Vernon proudly shows off a shiny gold medal while his
 officers laugh. Nico peeks over the ship's rail with a spyglass, then facepalms. He says in Spanish with a
-Colombian Bogotá accent: "El inglés Vernon ya mandó a hacer medallas de victoria… ¡y todavía no ha ganado!"
+Colombian paisa accent from Medellín: "El inglés Vernon ya mandó a hacer medallas de victoria… ¡y todavía no ha ganado!"
 
 ### Clip 4: Cannonballs
 **Prompt:** Inside the stone fortress Castillo San Felipe, Spanish soldiers preparing cannons. Nico
 struggles to carry one heavy black cannonball, red-faced, belly pushing forward, tiny steps. He says,
-straining, in Spanish with a Colombian Bogotá accent: "¡Yo también ayudo! ¡Esto pesa más que yo, parceros!"
+straining, in Spanish with a Colombian paisa accent from Medellín: "¡Yo también ayudo! ¡Esto pesa más que yo, parceros!"
 
 ### Clip 5: The short ladders
 **Prompt:** Night, torches, British soldiers propping wooden ladders against the huge fortress wall, the
 ladders clearly too short. Nico on top of the wall laughs, then gives a ladder a little push with his
-belly and it slides harmlessly back down. He says in Spanish with a Colombian Bogotá accent: "Dicen que
+belly and it slides harmlessly back down. He says in Spanish with a Colombian paisa accent from Medellín: "Dicen que
 las escaleras les quedaron cortas… ¡jajaja, qué oso!"
 
 ### Clip 6: Rain and retreat
 **Prompt:** Heavy tropical rain, Nico holding a giant palm leaf as an umbrella. Then sunrise, the British
 fleet sailing away from the bay, people on the walls cheering, Blas de Lezo resting his hand on Nico's
-head. Nico says in Spanish with a Colombian Bogotá accent: "Con lluvias y enfermedades, Vernon se tuvo que ir. ¡Cartagena aguantó!"
+head. Nico says in Spanish with a Colombian paisa accent from Medellín: "Con lluvias y enfermedades, Vernon se tuvo que ir. ¡Cartagena aguantó!"
 
 ### Clip 7: Present day + call to action
 **Prompt:** Present-day Castillo San Felipe in Cartagena, sunny, the colorful old city behind. Nico holds
-up an old bronze medal and laughs with his missing tooth. He says in Spanish with a Colombian Bogotá accent:
-"Y esas medallas todavía existen. ¡Celebró antes de tiempo! ¡Chao, parceros!"
+up an old bronze medal and laughs with his missing tooth. He says in Spanish with a Colombian paisa accent from Medellín:
+"Y esas medallas todavía existen. ¡Celebró antes de tiempo! ¡Chao pues, parceros!"
 
 ---
 
 ### Full script (for captions)
-¡Quiubo, parceros! Cartagena, 1741… ¡y vienen como 180 barcos ingleses!
+¡Quiubo, pues, parceros! Cartagena, 1741… ¡y vienen como 180 barcos ingleses!
 Él es Blas de Lezo, "Mediohombre". Sin un ojo, sin una pierna… ¡y no le tiene miedo a nada!
 El inglés Vernon ya mandó a hacer medallas de victoria… ¡y todavía no ha ganado!
 ¡Yo también ayudo! ¡Esto pesa más que yo, parceros!
 Dicen que las escaleras les quedaron cortas… ¡jajaja, qué oso!
 Con lluvias y enfermedades, Vernon se tuvo que ir. ¡Cartagena aguantó!
-Y esas medallas todavía existen. ¡Celebró antes de tiempo! ¡Chao, parceros!
+Y esas medallas todavía existen. ¡Celebró antes de tiempo! ¡Chao pues, parceros!
 
 ### Instagram caption
 Nico ayudó a Blas de Lezo a defender Cartagena… del almirante que celebró antes de ganar. 🏅😂⚓

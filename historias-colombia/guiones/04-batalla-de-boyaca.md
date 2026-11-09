@@ -16,7 +16,7 @@ Start every prompt with the **Nico character block**. Every prompt ends with:
 ### Clip 1: Hook
 **Prompt:** Selfie-style close-up of chubby little Nico shivering in a freezing foggy páramo full of
 frailejón plants, 1819, snot frozen, wrapped tight in his ruana, a line of patriot soldiers marching
-behind him. Teeth chattering, he says in Spanish with a Colombian Bogotá accent: "¡Quiubo, parceros!
+behind him. Teeth chattering, he says in Spanish with a Colombian paisa accent from Medellín: "¡Quiubo, pues, parceros!
 ¡Qué frío! Estoy con el ejército de Bolívar… ¡nos vamos a la guerra!"
 
 ### Clip 2: The crossing
@@ -27,40 +27,40 @@ accent: "Cruzaron los Andes desde los Llanos… ¡muchos sin zapatos! Yo ya no s
 ### Clip 3: "¡Salve usted la patria!"
 **Prompt:** Marshy green battlefield, Bolívar on horseback turns to Rondón and shouts dramatically. Nico
 stands next to the horses, imitating Bolívar with his little fist raised. He shouts in Spanish with a
-Colombian Bogotá accent: "Y Bolívar le grita a Rondón: '¡Coronel, salve usted la patria!'"
+Colombian paisa accent from Medellín: "Y Bolívar le grita a Rondón: '¡Coronel, salve usted la patria!'"
 
 ### Clip 4: The charge
 **Prompt:** Epic slow-motion shot, Rondón and a small group of llanero lancers galloping across the
 marsh, mud splashing, and Nico sitting behind Rondón on the horse, hugging him tight, his cheeks wobbling,
-holding a little stick like a lance. He screams happily in Spanish with a Colombian Bogotá accent:
+holding a little stick like a lance. He screams happily in Spanish with a Colombian paisa accent from Medellín:
 "¡Pocos lanceros contra todo el ejército! ¡Vamos, vamos, vamos!"
 
 ### Clip 5: Puente de Boyacá
 **Prompt:** Morning, a small stone bridge over a river in green hills, patriot troops advancing in a
 line. Nico marches in front banging a small military drum, his belly bouncing with every step. He says in
-Spanish with a Colombian Bogotá accent: "7 de agosto, Puente de Boyacá. ¡Bolívar y Santander atacan!"
+Spanish with a Colombian paisa accent from Medellín: "7 de agosto, Puente de Boyacá. ¡Bolívar y Santander atacan!"
 
 ### Clip 6: Victory
 **Prompt:** After the battle (no injuries shown), patriot soldiers cheering and throwing their hats in the
 air, a royalist general in a fancy uniform being led away as a prisoner. Nico gets lifted onto a soldier's
-shoulders, celebrating. He shouts in Spanish with a Colombian Bogotá accent: "¡En dos horas atraparon al
+shoulders, celebrating. He shouts in Spanish with a Colombian paisa accent from Medellín: "¡En dos horas atraparon al
 general español Barreiro! ¡Ganamos, parceros!"
 
 ### Clip 7: Present day + call to action
 **Prompt:** Present-day Puente de Boyacá monument, sunny, Colombian flags in the wind. Nico wears a
-Colombian flag as a cape and does a superhero pose. He says in Spanish with a Colombian Bogotá accent:
-"Por eso el 7 de agosto es fiesta. ¿Ya sabían? ¡Síganme pa' más historias!"
+Colombian flag as a cape and does a superhero pose. He says in Spanish with a Colombian paisa accent from Medellín:
+"Por eso el 7 de agosto es fiesta. ¿Cierto que no sabían? ¡Síganme pa' más historias!"
 
 ---
 
 ### Full script (for captions)
-¡Quiubo, parceros! ¡Qué frío! Estoy con el ejército de Bolívar… ¡nos vamos a la guerra!
+¡Quiubo, pues, parceros! ¡Qué frío! Estoy con el ejército de Bolívar… ¡nos vamos a la guerra!
 Cruzaron los Andes desde los Llanos… ¡muchos sin zapatos! Yo ya no siento los pies.
 Y Bolívar le grita a Rondón: "¡Coronel, salve usted la patria!"
 ¡Pocos lanceros contra todo el ejército! ¡Vamos, vamos, vamos!
 7 de agosto, Puente de Boyacá. ¡Bolívar y Santander atacan!
 ¡En dos horas atraparon al general español Barreiro! ¡Ganamos, parceros!
-Por eso el 7 de agosto es fiesta. ¿Ya sabían? ¡Síganme pa' más historias!
+Por eso el 7 de agosto es fiesta. ¿Cierto que no sabían? ¡Síganme pa' más historias!
 
 ### Instagram caption
 Nico se fue a la guerra con Bolívar… y casi se congela en el páramo. 🥶🐎 Así se ganó la Batalla de Boyacá.

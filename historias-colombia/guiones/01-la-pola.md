@@ -15,33 +15,33 @@ Start every prompt with the **Nico character block** from `PLAN.md`. Every promp
 ### Clip 1: Hook
 **Prompt:** Selfie-style close-up of chubby little Nico holding the camera, cheeks red, out of breath, in
 a colonial cobblestone plaza in Santafé de Bogotá in 1817, wooden balconies, people in colonial clothes
-behind him. Excited, he says in Spanish with a Colombian Bogotá accent: "¡Quiubo, parceros! La ruana
+behind him. Excited, he says in Spanish with a Colombian paisa accent from Medellín: "¡Quiubo, pues, parceros! La ruana
 de mi abuela me trajo a 1817… ¡y hoy soy espía!"
 
 ### Clip 2: Meet La Pola
 **Prompt:** Inside a candlelit colonial house, La Pola sewing a dress, rich royalist ladies chatting
 nearby. Nico peeks from behind a curtain, only his round face showing, whispering to the camera in
-Spanish with a Colombian Bogotá accent: "Ella es La Pola. Cose vestidos pa' los españoles… pero en secreto escucha todo."
+Spanish with a Colombian paisa accent from Medellín: "Ella es La Pola. Cose vestidos pa' los españoles… pero en secreto escucha todo."
 
 ### Clip 3: The secret mission
 **Prompt:** La Pola kneels and secretly hides a folded note inside a loaf of bread, handing it to Nico
 with a wink. Nico salutes seriously, stuffs the bread under his hoodie, making his belly even rounder.
-He whispers in Spanish with a Colombian Bogotá accent: "Me dio un mensaje pa' los patriotas. ¡Misión secreta, parceros!"
+He whispers in Spanish with a Colombian paisa accent from Medellín: "Me dio un mensaje pa' los patriotas. ¡Misión secreta, parceros!"
 
 ### Clip 4: The chase
 **Prompt:** Fast handheld shot, Nico running through narrow colonial streets at dusk, short legs going
 fast, belly bouncing, two Spanish soldiers in blue-and-red uniforms chasing far behind. Nico panting,
-in Spanish with a Colombian Bogotá accent: "¡Uy, no, me vieron! ¡Corre, Nico, corre!"
+in Spanish with a Colombian paisa accent from Medellín: "¡Ave María, pues, me vieron! ¡Corre, Nico, corre!"
 
 ### Clip 5: Hiding
 **Prompt:** Nico squeezes into a big clay pot in an alley, gets stuck halfway, then pops all the way
 in with a funny "pop". Soldiers run past without seeing him. He peeks out the top, whispering in Spanish
-with a Colombian Bogotá accent: "Casi no quepo… ¡pero no me encontraron! ¡Mensaje entregado!"
+with a Colombian paisa accent from Medellín: "Casi no quepo… ¡pero no me encontraron! ¡Mensaje entregado!"
 
 ### Clip 6: The sad part
 **Prompt:** Calm, emotional shot, Nico sitting on colonial stone steps at night, holding the bread,
 looking at the camera with big sad eyes, candlelight from windows. He says softly in Spanish with a
-Colombian Bogotá accent: "A La Pola sí la atraparon. Pero fue muy valiente hasta el final."
+Colombian paisa accent from Medellín: "A La Pola sí la atraparon. Pero fue muy valiente hasta el final."
 
 ### Clip 7: Present day + call to action
 **Prompt:** Present-day Plaza de Bolívar in Bogotá, pigeons, sunny. Nico holds up an old Colombian
@@ -51,10 +51,10 @@ accent: "Por eso el 14 de noviembre es el Día de la Mujer Colombiana. ¡Síganm
 ---
 
 ### Full script (for captions)
-¡Quiubo, parceros! La ruana de mi abuela me trajo a 1817… ¡y hoy soy espía!
+¡Quiubo, pues, parceros! La ruana de mi abuela me trajo a 1817… ¡y hoy soy espía!
 Ella es La Pola. Cose vestidos pa' los españoles… pero en secreto escucha todo.
 Me dio un mensaje pa' los patriotas. ¡Misión secreta, parceros!
-¡Uy, no, me vieron! ¡Corre, Nico, corre!
+¡Ave María, pues, me vieron! ¡Corre, Nico, corre!
 Casi no quepo… ¡pero no me encontraron! ¡Mensaje entregado!
 A La Pola sí la atraparon. Pero fue muy valiente hasta el final.
 Por eso el 14 de noviembre es el Día de la Mujer Colombiana. ¡Síganme pa' más historias!
